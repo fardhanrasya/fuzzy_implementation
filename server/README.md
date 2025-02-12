@@ -1,0 +1,1 @@
+cara jalaninnya "npm run start"
